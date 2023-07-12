@@ -1,10 +1,7 @@
 # Kevin Gerges, Kgerges@usc.edu
-# ITP 216, Spring 2023
-# Section: 31883R
-# Final Project
 # Description:
 # Describe what this program does in your own words such as:
-# A web application that uses machine learning and Pandas to visualize and estimate tweets sentiment. 
+# A web application (API) that uses machine learning and Pandas to visualize and estimate tweets sentiment. 
 
 from flask import Flask, request, send_file
 import pickle
